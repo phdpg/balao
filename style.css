@@ -1,0 +1,12 @@
+.texto{
+position: relative;
+}
+
+h2{
+width: 300px;
+font-family: cursive;
+position: absolute;
+bottom: 350px;
+left: 225px;
+text-align: center;
+}
